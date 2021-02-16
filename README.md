@@ -3,4 +3,6 @@ github tutorial
 
 This is my tutorial
 
-I am new to gitHub and want to learn more.
+This is my second branch creation.
+
+I will make a pull request once completed.
